@@ -42,5 +42,5 @@ The scraped data will be saved as scraped_output.csv.
 Legal Disclaimer
 This scraper is intended for educational purposes only. Scraping LinkedIn is against their Terms of Service, and I am not responsible for any misuse of this tool.
 
-Author
+Author:
 Purab Ray
