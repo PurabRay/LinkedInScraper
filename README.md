@@ -16,7 +16,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/linkedin-scraper.git
+git clone https://github.com/PurabRay/linkedin-scraper.git
 cd linkedin-scraper
 Install Dependencies:
 
